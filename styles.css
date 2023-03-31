@@ -1,0 +1,31 @@
+body {
+  background-color: ##B0B7BC;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
+  color: #002244;
+  
+}
+
+#header {
+  text-align: center;
+  color: #ff3333;
+}
+
+.superbowls {
+  height: 375px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin-right: 900px;
+
+}
+
+.sbh {
+  
+}
+
+
+.secondP {
+  color: #C60C30;
+  font-family: Arial, sans-serif;
+  font-size: 1.5em;
+}
